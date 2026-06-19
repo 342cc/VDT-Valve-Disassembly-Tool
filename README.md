@@ -18,7 +18,7 @@ All CAD files, Bill of Materials (BOM), and web app code are provided to enable 
 This project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ## Author
-Lionel Kiettyetta – IST Makerspace / Africa Makerspace
+Wendpouire Lionel Elysee Kiettyetta 
 
 ## Links
 - Web app demo : https://angle-aligner-pro.lovable.app
